@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projet_misemSekolySabata</string>
+    <string-array name="gender_options">
+        <item>Homme</item>
+        <item>Femme</item>
+    </string-array>
+</resources>
